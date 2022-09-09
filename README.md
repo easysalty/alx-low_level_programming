@@ -1,2 +1,1 @@
-# alx-low_level_programming
-learning C hello world
+my C Hello World readme
